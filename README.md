@@ -1,6 +1,4 @@
-# Matplotlib - The Power of Plots
-
-## Background - Pharmaceuticals
+# Pharmaceuticals
 
 ![Laboratory](Images/Laboratory.jpg)
 
